@@ -1,0 +1,29 @@
+_repo: Le-Tour-de-l-Espagne-en-AutomobileEtude-de-Tourisme_44543
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44543-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Marge, Pierre
+    birthdate: 1874
+    gutenberg_agent_id: '42806'
+    url: http://www.gutenberg.org/2009/agents/42806
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2013-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44543'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DP'
+- !lcsh 'Automobile travel'
+- !lcsh 'Spain -- Description and travel'
+title: 'Le Tour de l''Espagne en Automobile
+
+  Etude de Tourisme'
+url: http://www.gutenberg.org/ebooks/44543
